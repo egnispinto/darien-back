@@ -6,7 +6,7 @@ El proyecto tiene todo lo necesario para arrancar con un proyecto nodeJS con Exp
 y restApi
 
 Para instalarlo es necesario clonar el proyecto:
-git clone https://gitlab.com/egnispinto/empty-project-node.git
+git clone https://gitlab.com/egnispinto/darien-back.git
 
 Luego de clonado se debe ejecutar
 <p>npm install</p>
